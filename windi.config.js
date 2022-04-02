@@ -1,6 +1,14 @@
 import { defineConfig } from 'windicss/helpers';
 
 export default defineConfig({
+  safelist: [
+    'bg-orange',
+    'text-orange',
+    'bg-cyan-600',
+    'text-cyan-600',
+    'bg-cyan-700',
+    'text-cyan-700',
+  ],
   theme: {
     colors: {
       cyan: {
