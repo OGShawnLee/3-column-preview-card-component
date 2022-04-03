@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [To be added](https://your-solution-url.com)
+- Solution URL: [Right here!](https://www.frontendmentor.io/solutions/responsive-card-component-built-with-no-boilerplate-svelte-windicss-S176ov8X5)
 - Live Site URL: [Deployed on Vercel](https://3-column-preview-card-component-iota-five.vercel.app/)
 
 ## My process
